@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SurtidoIntentImpl</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="conociendo">Conociendo la EPS</string>
+    <string name="ubicando">Localizacion</string>
+    <string name="navegando">Acceso a la web</string>
+    <string name="contactando">Tlf. de contacto: 973.702.700</string>
+    <string name="Boto1">Por coord.</string>
+    <string name="Boto2">Por direcc.</string>
+    <string name="Boto3">Por URL</string>
+    <string name="Boto4">Google</string>
+    <string name="Boto5">Marcar</string>
+    <string name="Boto6">Acceder Contactos</string>
+    <string name="Boto7">Llamar</string>
+    <string name="Boto8">Enviar SMS</string>
+    <string name="SLoc">Seleccionado Localizacion por coordenadas</string>
+    <string name="SLocD">Seleccionado Localizacion por direccion</string>
+    <string name="AWeb">Accediendo a la web</string>
+    <string name="SGoogle">Buscando en Google</string>
+    <string name="MTlfn">Marcando el Tlfn.</string>
+    <string name="ACntcts">Accediendo a contactos</string>
+    <string name="CTlf">Llamando el Tlfn.</string>
+    <string name="TlfDest">Tlf. Destinatario</string>
+    <string name="SSMS">Enviando SMS</string>
+    <string name="emaildst">Email a M. Sendin</string>
+    <string name="Boto9">Email</string>
+    <string name="email">msendin@diei.udl.cat</string>
+    <string name="subject">MinAct-2</string>
+    <string name="body">MinAct-2</string>
+    <string name="smstlf">sms:679520387</string>
+    <string name="urlEPS">http://www.eps.udl.cat/</string>
+    <string name="tlfEPS">tel:973702700</string>
+</resources>
